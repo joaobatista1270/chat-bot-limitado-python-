@@ -1,11 +1,11 @@
 print("ao escrever barra conversa vai mostras as palavras que funciona")
 import sys
 while True:
-    i = input("digite:").lower().strip()
+    i = input("digite: ").lower().strip()
     if i == "oi":
         print("oi tudo bem?")
     elif i == "voce conhece o planeta terra?":
-        print("oi como esta?")
+        print("eu nao conheço pois sou linhas de codigos de linguagem python ")
     elif i == "como esta?":
         print("oi")
     elif i == "como voce esta?":
